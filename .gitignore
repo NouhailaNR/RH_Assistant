@@ -1,0 +1,23 @@
+
+# Environnement virtuel
+projet_LLM/
+.venv
+.env
+
+# fichier compilé python ( on ne versionne pas)
+__pycache__
+*.py[cod]
+# jupyter Notebook
+.ipynb_checkpoints
+
+# log
+*.log
+*.lock
+
+# Vscode
+.vscode/
+.idea/
+# csv et jpg
+*.csv
+*.jpg
+*.pdf
